@@ -8,6 +8,11 @@ body {
 .text-center {
   text-align: center;
 }
+.img-building {
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+}
 
 .img-responsive {
   width: 100%;
