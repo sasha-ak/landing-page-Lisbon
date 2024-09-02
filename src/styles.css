@@ -93,7 +93,7 @@ section.section-images {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
-    url(../images/brige.jpg);
+    url(../images/header-image-bridge.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: aliceblue;
@@ -190,7 +190,7 @@ footer {
       rgba(39, 32, 68, 0.9),
       rgba(39, 32, 68, 0.9)
     ),
-    url("../images/food_market.jpg");
+    url("../images/footer-image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
